@@ -1,1 +1,1 @@
-# MADAR-BOT
+# madar-bot
